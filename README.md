@@ -22,7 +22,7 @@ React, JavaScript, aframe
 https://katabi.netlify.app/
 
 ## Usage
-Click one of the Demo Buttons and enter into WebVR environment
+Click one of the Demo Buttons and enter into the WebVR environment
 
 ## Questions
 For questions about the project contact PhoebeYahengWu or directly at team@katabi.co
