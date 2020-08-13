@@ -28,5 +28,5 @@ https://katabi.netlify.app/
 Click one of the Demo Buttons and enter into the WebVR environment
 
 ## Questions
-For questions about the project contact PhoebeYahengWu or directly at team@katabi.co
+For questions about the project contact directly at team@katabi.co
 
